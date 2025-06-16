@@ -1,7 +1,7 @@
 # Table of contents
 
 * [「OpenAI API 실전 활용 완벽 가이드: GPT, Embedding, Assistants API까지」](README.md)
-* [1.1](1.1.md)
+* [1.1 OpenAI의 역사와 미션](1.1.md)
 * [1.2 생성형 AI(Generative AI)란 무엇인가](1.2.md)
 * [1.3 GPT 계열의 발전 과정 (GPT-2 → GPT-3 → GPT-4 → GPT-4o)](1.3.md)
 * [1.4 LLM의 작동 원리 요약 (Transformer, Pretraining, Fine-tuning)](1.4.md)
