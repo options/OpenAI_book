@@ -1,6 +1,4 @@
 # Table of contents
-
-* [「OpenAI API 실전 활용 완벽 가이드: GPT, Embedding, Assistants API까지」](README.md)
 * [1.0 OpenAI 이해와 준비(기초부터 원리까지)](1.0.md)
 * [1.1 OpenAI의 역사와 미션](1.1.md)
 * [1.2 생성형 AI(Generative AI)란 무엇인가](1.2.md)
