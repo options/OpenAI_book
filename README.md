@@ -1,1 +1,6 @@
-﻿# 「OpenAI API 실전 활용 완벽 가이드: GPT, Embedding, Assistants API까지」
+---
+icon: hand-wave
+---
+
+# OpenAI 실적 활용 완벽 가이드
+

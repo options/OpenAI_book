@@ -1,4 +1,6 @@
 # Table of contents
+
+* [OpenAI 실적 활용 완벽 가이드](README.md)
 * [1.0 OpenAI 이해와 준비(기초부터 원리까지)](1.0.md)
 * [1.1 OpenAI의 역사와 미션](1.1.md)
 * [1.2 생성형 AI(Generative AI)란 무엇인가](1.2.md)
@@ -16,7 +18,7 @@
 * [3.4 에러 처리 및 응답 구조](3.4.md)
 * [4.0 Chat Completions API의 구조와 활용](4.0.md)
 * [4.1 메시지 역할 구조: system, user, assistant](4.1.md)
-* [4.2 temperature, top_p, max_tokens, stop 등 주요 파라미터](4.2.md)
+* [4.2 temperature, top\_p, max\_tokens, stop 등 주요 파라미터](4.2.md)
 * [4.3 대화형 프롬프트 디자인과 흐름 제어](4.3.md)
 * [4.4 코드 예제: 요약, 번역, 설명, Q\&A, 문서 작성](4.4.md)
 * [5.0 프롬프트 엔지니어링 기법 심화](5.0.md)
